@@ -1,6 +1,0 @@
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Yonchev\Documents\Visual Studio 2015\Projects\Homework & Testing\CSharp_OOP_Homework_Part1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
